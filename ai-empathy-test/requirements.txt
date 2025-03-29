@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+streamlit
+python-dotenv
+transformers
+torch  # Required by transformers
